@@ -5,7 +5,7 @@ author: "Paul Le"
 categories: sample
 tags: [sample]
 image: arctic-1.jpg
-permalink: /about
+permalink: /aboutme
 ---
 
 I am an upcoming first-year PhD student in linguistics at UC Berkeley, primarily interested in morphosyntax, its interfaces, and language documentation and revitalization. Prior to my graduate studies, I completed a BA in linguistics and mathematics at McGill University (2020–2024).
