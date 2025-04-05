@@ -7,10 +7,10 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'About me',       url: 'aboutme'}
+- {name: 'About Me',       url: 'aboutme'}
+- {name: 'Research',  url: 'research'}
 - {name: 'Publications', url: 'publ'}
 - {name: 'CV', url: 'cv'}
-- {name: 'Research',  url: 'research'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
