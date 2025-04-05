@@ -9,4 +9,4 @@ permalink: /publ
 
 Publications to be added!
 
-Above: Fall on a farm in Kawehnhò:ke.
+Above: Fall on a farm in Kawehnò:ke.
