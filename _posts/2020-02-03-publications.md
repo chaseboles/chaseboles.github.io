@@ -11,7 +11,7 @@ If you cannot find the materials you're looking for, please send me an email!
 <hr>
 <h4>Publications</h4>
 More publications to come!
-<hr>
+
 Boles, Chase. 2023. Getting the -ik: An anticausative structure in Kirundi. _Toronto Working
 Papers in Linguistics_ 46(1). \[<a href="https://doi.org/10.33137/twpl.v46i1.39250">doi</a>\]
 <hr>
