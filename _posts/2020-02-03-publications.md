@@ -21,7 +21,7 @@ Papers in Linguistics_ 46(1). \[<a href="https://doi.org/10.33137/twpl.v46i1.392
 <br>
 
 <h3>Handouts</h3>
-Boles, Chase and <a href="https://michaelasocolof.github.io">Michaela Socolof</a>. Conditionals in Igala. \[<a href="{{ site.github.io }}/assets/IgalaConditionalsACAL.pdf">pdf</a>\]
+Boles, Chase and <a href="https://michaelasocolof.github.io">Michaela Socolof</a>. Conditionals in Igala. _ACAL 55_. \[<a href="{{ site.github.io }}/assets/IgalaConditionalsACAL.pdf">pdf</a>\]
 <br>
 <br>
 
