@@ -9,7 +9,7 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'About Me',       url: 'aboutme'}
 - {name: 'Research',  url: 'research'}
-- {name: 'Publications', url: 'publ'}
+- {name: 'Publications/Materials', url: 'publ'}
 - {name: 'CV', url: 'cv'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
