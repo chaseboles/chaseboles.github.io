@@ -26,4 +26,6 @@ Boles, Chase and <a href="https://michaelasocolof.github.io">Michaela Socolof</a
 <br>
 
 <h3>Posters</h3>
-_Loading..._
+Boles, Chase. ``Bleeding" Condition C in Kanien'kéha. _WCCFL 43_. \[<a href="{{ site.github.io }}/assets/WCCFL2025_CondC.pdf">pdf</a> | <a href="{{ site.github.io }}/assets/WCCFL2025_CondC.pdf">handout</a>\]
+<br>
+<br>
