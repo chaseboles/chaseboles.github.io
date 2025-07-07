@@ -12,7 +12,7 @@ If you cannot find the materials you're looking for, please send me an email!
 <br>
 
 <h3>Publications</h3>
-More publications to come!
+Boles, Chase. To appear. Stowaway nominals: Incorporation and nPs in Kanien’kéha. _Proceedings of WSCLA 27_.
 <br>
 <br>
 Boles, Chase. 2023. Getting the -ik: An anticausative structure in Kirundi. _Toronto Working
