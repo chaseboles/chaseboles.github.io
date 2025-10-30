@@ -12,6 +12,9 @@ If you cannot find the materials you're looking for, please send me an email!
 <br>
 
 <h3>Publications</h3>
+Boles, Chase. To appear. ``Bleeding" Condition C in Kanien'kéha. _Proceedings of WCCFL 43_.
+<br>
+<br>
 Boles, Chase. To appear. Stowaway nominals: Incorporation and nPs in Kanien’kéha. _Proceedings of WSCLA 27_.
 <br>
 <br>
