@@ -15,7 +15,7 @@ If you cannot find the materials you're looking for, please send me an email!
 Boles, Chase. To appear. ``Bleeding" Condition C in Kanien'kéha. In _Proceedings of WCCFL 43_.
 <br>
 <br>
-Boles, Chase. 2025. Stowaway nominals: Incorporation and nPs in Kanien’kéha. In _Proceedings of WSCLA 27_, eds. Ella Hannon and Bruce Oliver, 17--31. Vancouver:UBCWPL. \[<a href="https://lingpapers.sites.olt.ubc.ca/files/2025/12/WSCLA2024-incorporation-proceedings-3.pdf">pdf</a>\]
+Boles, Chase. 2025. Stowaway nominals: Incorporation and nPs in Kanien’kéha. In _Proceedings of WSCLA 27_, eds. Ella Hannon and Bruce Oliver, 17--31. Vancouver:UBCWPL. \[<a href="https://lingpapers.sites.olt.ubc.ca/files/2026/01/WSCLA2024-incorporation-proceedings-3.pdf">pdf</a>\]
 <br>
 <br>
 Boles, Chase. 2023. Getting the -ik: An anticausative structure in Kirundi. _Toronto Working
