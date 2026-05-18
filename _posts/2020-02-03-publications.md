@@ -24,6 +24,9 @@ Papers in Linguistics_ 46(1). \[<a href="https://doi.org/10.33137/twpl.v46i1.392
 <br>
 
 <h3>Handouts</h3>
+Boles, Chase. 2026. Unattested ``possessum" case and constraints on Late Merge. _WCCFL 44_, UNAM, Mexico City. \[<a href="{{ site.github.io }}/assets/boles_wccfl44_handout.pdf">pdf</a>\]
+<br>
+<br>
 Boles, Chase and <a href="https://michaelasocolof.github.io">Michaela Socolof</a>. 2024. Conditionals in Igala. _ACAL 55_, McGill University, Montréal. \[<a href="{{ site.github.io }}/assets/IgalaConditionalsACAL.pdf">pdf</a>\]
 <br>
 <br>
