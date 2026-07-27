@@ -7,7 +7,7 @@ image: ahkwesahsne-2.jpg
 permalink: /publ
 caption: Fall on a farm in Kawehnò:ke.
 ---
-If you cannot find the materials you're looking for, please send me an email!
+This is a selected list of materials; see my CV for all publications. If you cannot find the materials you're looking for, please send me an email!
 <br>
 <br>
 
